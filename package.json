@@ -1,0 +1,19 @@
+{
+  "name": "kiberbez",
+  "version": "0.0.1",
+  "description": "Tiny CLI program written in Node.js implementing some crypto algorithms",
+  "main": "index.js",
+  "bin": {
+    "shifr": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metnew/crypto-algos-for-university.git"
+  },
+  "author": "Vladimir Metnew",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Metnew/crypto-algos-for-university/issues"
+  },
+  "homepage": "https://github.com/Metnew/crypto-algos-for-university#readme"
+}
